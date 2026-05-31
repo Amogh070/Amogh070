@@ -1,0 +1,6 @@
+sources:
+  - name: Demo
+    database: Demo_Amogh
+    schema: demo_schema
+    tables:
+      - name: weather
