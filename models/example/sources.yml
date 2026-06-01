@@ -4,3 +4,4 @@ sources:
     schema: demo_schema
     tables:
       - name: weather
+      - name: travel_clean
